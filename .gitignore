@@ -2,3 +2,4 @@ dataset
 .env
 .env.local
 featuresplot.png
+__pycache__
